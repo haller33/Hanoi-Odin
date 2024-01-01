@@ -1,0 +1,17 @@
+
+* Hanoi Odin
+
+try to implement
+
+https://grdjournals.com/article?paper_id=GRDCF003015
+
+
+** demos
+
+** motivation
+
+
+
+* version of [[https://github.com/odin-lang/odin][Odin]]
+
+dev-2023-11:ef5eb4b6

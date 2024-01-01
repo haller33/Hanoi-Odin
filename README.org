@@ -10,6 +10,7 @@ https://grdjournals.com/article?paper_id=GRDCF003015
 
 ** motivation
 
+to intent to grasp ideas of how to implement statemachines on a performatic way ( avoiding enums and booleans arrays ), on a DoD style, to performe operations on a resonable time, indeed we know that the optiomal solution may not been forgeable on human time.
 
 
 * version of [[https://github.com/odin-lang/odin][Odin]]
